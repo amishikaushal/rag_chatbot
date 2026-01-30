@@ -9,3 +9,5 @@ faiss-cpu
 sentence-transformers
 pypdf
 langdetect
+langchain-huggingface
+
