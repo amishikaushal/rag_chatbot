@@ -1,9 +1,11 @@
+streamlit
+python-dotenv
+
 langchain
 langchain-community
-langchain-gemini
+langchain-google-genai
+
 faiss-cpu
 sentence-transformers
 pypdf
-streamlit
 langdetect
-python-dotenv
