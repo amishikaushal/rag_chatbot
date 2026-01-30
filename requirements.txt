@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-langchain==0.1.244
+langchain
 langchain_community
 langchain-google-genai
 faiss-cpu
@@ -8,4 +8,3 @@ sentence-transformers
 pypdf
 langdetect
 langchain-huggingface
-
