@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-gemini
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
+langdetect
+python-dotenv
