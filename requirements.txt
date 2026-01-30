@@ -1,17 +1,12 @@
-# Streamlit and environment
 streamlit==1.24.1
 python-dotenv==1.2.1
 
-# LangChain core (latest compatible)
 langchain>=0.0.350,<1.0
 langchain_community>=0.0.1
 langchain-google-genai>=0.0.5
 langchain-huggingface>=0.0.3
 
-# Vector store & embeddings
 faiss-cpu>=1.7.4
 sentence-transformers>=2.2.2
-
-# PDF and language processing
 pypdf>=3.16.0
 langdetect>=1.0.9
