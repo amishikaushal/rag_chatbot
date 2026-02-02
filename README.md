@@ -9,6 +9,7 @@ This is intended as a **proof-of-concept (POC)** and not a full production deplo
 ---
 
 ## Project Structure
+```bash 
 RAG_AIML_CHATBOT/
 ├── data/                               # Source documents for ingestion
 ├── src/
@@ -23,6 +24,8 @@ RAG_AIML_CHATBOT/
 ├── runtime.txt                        # Python runtime specification
 ├── .env                               # Environment variables (ignored in git)
 ├── .gitignore
+
+```
 
 
 
