@@ -64,7 +64,7 @@ Create a `.env` file in the project root and add the required API keys and confi
 
 Example:
 ```env
-OPENAI_API_KEY=your_key_here
+GEMINI_API_KEY=your_key_here
 ```
 
 
